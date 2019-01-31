@@ -11,7 +11,7 @@
 			or maintaining a plant-based diet.</p>
 		<h2>Persona</h2>
 		<p>Bill:</p>
-		<img href=".millenial2.jpg">
+		<img src="millenial2.jpg" alt="Bill">
 		<ul>
 			<li>Age: early twenties</li>
 			<li>Job: food joint near local campus. Full-time college student</li>
